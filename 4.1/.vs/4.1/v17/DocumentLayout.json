@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my313\\Desktop\\\u5B9E\u9A8C\u4E8C\\4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4EFCCB-69EE-4E8E-8221-55F577C87527}|4.1\\4.1.vcxproj|C:\\Users\\my313\\Desktop\\\u5B9E\u9A8C\u4E8C\\4.1\\4.1\\4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C4EFCCB-69EE-4E8E-8221-55F577C87527}|4.1\\4.1.vcxproj|solutionrelative:4.1\\4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.1.cpp",
+              "DocumentMoniker": "C:\\Users\\my313\\Desktop\\\u5B9E\u9A8C\u4E8C\\4.1\\4.1\\4.1.cpp",
+              "RelativeDocumentMoniker": "4.1\\4.1.cpp",
+              "ToolTip": "C:\\Users\\my313\\Desktop\\\u5B9E\u9A8C\u4E8C\\4.1\\4.1\\4.1.cpp",
+              "RelativeToolTip": "4.1\\4.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-12T13:45:35.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1695,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

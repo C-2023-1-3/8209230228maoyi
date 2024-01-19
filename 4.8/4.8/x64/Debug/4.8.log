@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(4.8.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  4.8.1.cpp
+C:\Users\my313\Desktop\c++\实验三、实验四\4.8\4.8\4.8.1.cpp(22,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\my313\Desktop\c++\实验三、实验四\4.8\4.8\4.8.1.cpp(23,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\my313\Desktop\c++\实验三、实验四\4.8\4.8\4.8.1.cpp(50): warning C4715: “indexOf”: 不是所有的控件路径都返回值
+  4.8.vcxproj -> C:\Users\my313\Desktop\c++\实验三、实验四\4.8\x64\Debug\4.8.1.exe

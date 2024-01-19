@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my313\\source\\repos\\2.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BAA2A6-E72A-4FD8-A22D-DF87F76E2A7F}|2.5\\2.5.vcxproj|C:\\Users\\my313\\source\\repos\\2.5\\2.5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5BAA2A6-E72A-4FD8-A22D-DF87F76E2A7F}|2.5\\2.5.vcxproj|solutionrelative:2.5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\my313\\source\\repos\\2.5\\2.5\\FileName.cpp",
+              "RelativeDocumentMoniker": "2.5\\FileName.cpp",
+              "ToolTip": "C:\\Users\\my313\\source\\repos\\2.5\\2.5\\FileName.cpp",
+              "RelativeToolTip": "2.5\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-19T11:36:40.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
